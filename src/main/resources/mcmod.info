@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aaronalerts",
+  "name": "Aaron's Alerts",
+  "description": "Alerts you to kill them",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jonot15"],
+  "credits": "yep",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
